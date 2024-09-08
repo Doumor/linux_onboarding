@@ -9,7 +9,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
 
-    - name: Pushes test folder
+    - name: Push doc folder
       uses: datalbry/copy_folder_to_another_repo_action@1.0.0
       env:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
@@ -20,3 +20,4 @@ jobs:
         user_email: 'doumor@vk.com'
         user_name: 'doumor'
         commit_msg: 'Update the linux_onboarding docs files.'
+        destination_branch: 'main'
