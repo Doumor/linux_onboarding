@@ -1,0 +1,13 @@
+title: Documentation Template
+links:
+  - title: Linux онбординг
+    href: about.md
+
+  - title: Начальный
+    href: begginer/
+
+  - title: Продвинутый
+    href: advanced/
+
+  - title: Эксперт
+    href: expert/
