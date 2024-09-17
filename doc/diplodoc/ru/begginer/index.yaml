@@ -1,4 +1,10 @@
-title: Sub-section Example on index page
+title: Начинающий
 links:
-  - title: Content on a page under Sub-section
-    href: content.md
+  - title: ssh
+    href: ssh.md
+
+  - title: bash
+    href: bash.md
+
+  - title: Практикум python + mamba
+    href: python-mamba.md
