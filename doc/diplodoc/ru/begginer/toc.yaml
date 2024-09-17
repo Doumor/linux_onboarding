@@ -1,5 +1,11 @@
-title: Sub-section Example TOC
+title: Начинающий
 href: index.yaml
 items:
-  - name: Content page under sub-section
-    href: content.md
+  - name: ssh
+    href: ssh.md
+
+  - name: bash
+    href: bash.md
+
+  - name: Практикум python + mamba
+    href: python-mamba.md
