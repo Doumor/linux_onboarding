@@ -6,7 +6,7 @@
 
 - Начальный
 
-Позволяет быстро вникнуть в работу, закрывая дыры в самых базовых знаниях, но при этом не углублясь в то, что на самом деле происходит внутри. Основные темы: ssh, работа на сервере, mamba и python.
+Позволяет быстро вникнуть в работу, закрывая дыры в самых базовых знаниях, но при этом не углублясь в то, что на самом деле происходит внутри. Основные темы: SSH, работа на сервере, mamba и Python.
 
 - Продвинутый
 
@@ -20,19 +20,21 @@
 В дополнении к курсу можно использовать другие учебные материалы.
 
 Параллельно можно даже смотреть курс лекций Курячего:
-(Для пользователей):
-https://www.youtube.com/watch?v=hwMHzJXP1rw&pp=ygUO0JrRg9GA0Y_Rh9C40Lk%3D
-(Для линуксоидов):
-https://www.youtube.com/watch?v=QXVkOj6i2sY&list=PLEqXlwb22u31SOpd5dRkadfLhj2HDOJ7Q
+
+(Для пользователей)[https://www.youtube.com/watch?v=hwMHzJXP1rw&pp=ygUO0JrRg9GA0Y_Rh9C40Lk%3D]
+(Для линуксоидов)[https://www.youtube.com/watch?v=QXVkOj6i2sY&list=PLEqXlwb22u31SOpd5dRkadfLhj2HDOJ7Q]
 
 Файловая система в Linux:
+
 https://www.youtube.com/watch?v=WL2Xbndqy0k&pp=ygUO0JrRg9GA0Y_Rh9C40Lk%3D
 https://www.youtube.com/results?search_query=linux
 
 История технологий:
+
 https://www.youtube.com/watch?v=_9GUyggOPUY&list=PLuW889yWYTEfuANf6krzdPPwph42wVrg1&pp=iAQB
 
 А ещё линуксоиды любят настраивать рабочий стол...:
 https://www.youtube.com/watch?v=RuofJYG2yak
+
 И даже консоль научили выдавать красивое:
 https://www.youtube.com/watch?v=KdoaiGTIBY4
