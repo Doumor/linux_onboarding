@@ -1,4 +1,19 @@
-title: Sub-section Example on index page
+title: Продвинутый
 links:
-  - title: Content on a page under Sub-section
-    href: content.md
+  - title: bash
+    href: bash.md
+
+  - title: fhs
+    href: fhs.md
+
+  - title: git
+    href: git.md
+
+#  - title: monitoring
+#    href: monitoring.md
+
+#  - title: permissions
+#    href: permissions.md
+
+  - title: ssh
+    href: ssh.md

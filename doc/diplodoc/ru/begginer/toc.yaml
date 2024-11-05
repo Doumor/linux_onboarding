@@ -8,4 +8,4 @@ items:
     href: bash.md
 
   - name: Практикум python + mamba
-    href: python-mamba.md
+    href: python_mamba.md
