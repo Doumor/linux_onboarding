@@ -1,0 +1,12 @@
+site_name: Linux Onboarding
+nav:
+  - Home: index.md
+  - Begginer:
+      - ssh: ssh.md
+      - bash: bash.md
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+    - python
+    - bash
