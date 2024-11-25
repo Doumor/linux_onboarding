@@ -4,6 +4,17 @@ nav:
   - Begginer:
       - ssh: ssh.md
       - bash: bash.md
+  - Advanced:
+      - ssh: ssh2.md
+      - bash: bash2.md
+      - fhs: fhs.md
+      - monitoring: monitoring.md
+      - permissions: permissions.md
+      - git: git.md
+  - Expert:
+      - pkg: pkg.md
+      - linux: linux.md
+      - virt: virt.md
 theme:
   name: readthedocs
   highlightjs: true
