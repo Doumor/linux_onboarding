@@ -15,7 +15,7 @@ jobs:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
       with:
         source_folder: 'doc'
-        destination_repo: 'doumor/doc-publish'
+        destination_repo: 'doumor/mkdocs-publish'
         destination_folder: 'docs/linux_onboarding'
         user_email: 'doumor@vk.com'
         user_name: 'doumor'
